@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6c0058/v1
 canonical_location: https://kanripo.org/bkk/KR6c0058/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛經註解鐵鋑錎
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0058_000.yaml, hash: 'sha256:abfc9c443d819967e7b471e747f2cb10067a72863a8fd123cffb665867e2e6b6'}
-  - {seq: 1, filename: KR6c0058_001.yaml, hash: 'sha256:366196a53d4e9c2509065a62acc26484faaedf26f63d211de62beb2f0e60da8a'}
-  - {seq: 2, filename: KR6c0058_002.yaml, hash: 'sha256:082627b9f17b294b6ad9b5f6bd47ff9fd835712f3abba12ef76b37276932616a'}
+  - {seq: 0, filename: KR6c0058_000.yaml, hash: 'sha256:31171ed4ef0616933e95293b60519bbabaa0b2e570217cc068f070887c3a6db0'}
+  - {seq: 1, filename: KR6c0058_001.yaml, hash: 'sha256:49fb41df8c7d09bf7610ebd7471f8a53e6d8c3c084366df7e40469d5954b0f1a'}
+  - {seq: 2, filename: KR6c0058_002.yaml, hash: 'sha256:dc1f68f927ffe19224cb46d5982008c9a7bdc0a5227544691b1549e966203fe0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0058_000.markers.yaml, hash: 'sha256:547a80608372e3a1140c4d5fda6ab81c74b7895b778d45a54835b23c886a1678'}
-  - {seq: 1, role: markers, filename: assets/KR6c0058_001.markers.yaml, hash: 'sha256:2f7a5394810a1f51618fc3e2eb5e71a1e8470a388b3af911b187f84b581d5083'}
-  - {seq: 2, role: markers, filename: assets/KR6c0058_002.markers.yaml, hash: 'sha256:fc2d69bd43c6482b3cf681b4581426471a7859fae4e029c1aef842c8bf2f70a4'}
+  - {seq: 0, role: markers, filename: assets/KR6c0058_000.markers.yaml, hash: 'sha256:1373b2a0c1a0ff0b798cbd74715fcc839fd85278a475a69675953a6af590f1ac'}
+  - {seq: 1, role: markers, filename: assets/KR6c0058_001.markers.yaml, hash: 'sha256:295f164f372f69cd60409e2b7fd228ac476572ef2a97723ae31f8a8a4c40f870'}
+  - {seq: 2, role: markers, filename: assets/KR6c0058_002.markers.yaml, hash: 'sha256:85a2d5b87f85d335f9f31bcdb08a63cc3f3067a6025ec1baa4f8826920d6203c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -69,4 +69,7 @@ table_of_contents:
   label: 註解鐵鋑錎卷下
   type: juan
   level: 1
-hash: sha256:ebcd4fdb2d7693c79f56a3eaa1ad7bf1a2bcbbe885296debf396bc063da75e36
+hash: sha256:f99efb9f208bed428cfd961bcb535ffd68c77174f851bbba5d416f2f2315eb7f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
